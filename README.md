@@ -12,6 +12,6 @@ Support Vector Machines (SVM) is a supervised machine learning algorithm used fo
 SVM is particularly powerful for handling both linear and non-linear datasets. 
 The basic idea behind SVM is to find a hyperplane in a high-dimensional space that separates the data into classes.
 
-#Logistic Regression
+# Logistic Regression
 Logistic Regression is a commonly used algorithm for binary classification in machine learning. Despite its name, it's used for classification rather than regression. 
 The logistic regression model predicts the probability that an instance belongs to a particular class.
